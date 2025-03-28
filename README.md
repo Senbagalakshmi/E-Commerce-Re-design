@@ -16,5 +16,5 @@ PROJECT: UI&UX DESIGNING
 
 ![Image](https://github.com/user-attachments/assets/5a8f0f9e-6312-4884-b934-a44dc33c21ad)
 
-link for visit the figma work design:  
+link for visit the figma work design:  ![link](https://www.figma.com/design/l0SnMVzlffr96tuSi6xiOt/E-Commerce-Redesign?node-id=0-1&p=f&t=ZtKz5pZMIWJIykxC-0)
 
